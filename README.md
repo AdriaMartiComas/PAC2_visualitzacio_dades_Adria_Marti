@@ -4,9 +4,9 @@ Autor: Adrià Martí Comas
 
 ## Grafics publics
 
--<https://adriamarticomas.github.io/PAC2_visualitzacio_dades_Adria_Marti/choropleth.html>
--<https://adriamarticomas.github.io/PAC2_visualitzacio_dades_Adria_Marti/boxplot.html>
--<https://adriamarticomas.github.io/PAC2_visualitzacio_dades_Adria_Marti/contour.html>
+- [choropleth](https://adriamarticomas.github.io/PAC2_visualitzacio_dades_Adria_Marti/choropleth.html)
+- [boxplot](https://adriamarticomas.github.io/PAC2_visualitzacio_dades_Adria_Marti/boxplot.html)
+- [contour](https://adriamarticomas.github.io/PAC2_visualitzacio_dades_Adria_Marti/contour.html)
 
 ## Passos per generar els gràfics
 
